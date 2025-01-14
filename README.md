@@ -1,0 +1,1 @@
+Hawthorne Studios is a creative hub for storytelling excellence. Led by Liam Hawthorne, our company specializes in bold, thought-provoking films and series. Explore Liam’s portfolio on our site and discover the projects that have set a new standard in entertainment.
