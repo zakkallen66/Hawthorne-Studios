@@ -1,0 +1,19 @@
+
+/* Dark Theme Styles */
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+header, footer {
+    background-color: #1f1f1f;
+    padding: 10px;
+    text-align: center;
+}
+a {
+    color: #bb86fc;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffffff;
+}
